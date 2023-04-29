@@ -1,0 +1,22 @@
+{
+  "id": "2c189cca-ca40-45d2-9e7c-45f1487407ef",
+  "name": "SimLoad",
+  "description": "Automated testing tool for simulating load on web services. Supports HTTP, SignalR and GraphQL.",
+  "short_name": "SimLoad",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "."
+}
